@@ -16,4 +16,4 @@ A single CSS rule, using `:has()`, hides any feed shelf that contains a post. Po
 
 ## License
 
-[MIT](LICENSE)
+[GNU Affero General Public License v3.0](LICENSE)
